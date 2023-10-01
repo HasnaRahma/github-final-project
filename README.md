@@ -19,7 +19,7 @@ high performance calculator that calculates simple interest given principal, ann
 
 - [Installation](#installation)
     - [Composer](#composer)
-- [TYPO3 setup](#typo3-setup)
+- [Setup](#setup)
     - [Database setup](#database-setup)
     - [Security](#security)
 - [Page setup](#page-setup)
@@ -35,7 +35,7 @@ This document is for the latest Project of calculator **23.09 release and later*
 
 ### Composer
 
-## TYPO3 Setup
+## Setup
 
 ### Database Setup
 
